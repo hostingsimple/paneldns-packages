@@ -1,0 +1,29 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 20 Nov 2026 12:59:37 +0000
+Valid-Until: Fri, 04 Dec 2026 12:59:37 UTC
+Description: PanelDNS agent packages
+Label: PanelDNS
+Origin: PanelDNS
+Suite: stable
+MD5Sum:
+ c2087b7b5c8191f4876092e2e364478d              788 main/binary-amd64/Packages
+ ed22501cb66558adf97e003f61e8cb07              542 main/binary-amd64/Packages.gz
+ e28ab2013bf5a49424f5cdf19997001e              788 main/binary-arm64/Packages
+ d24693f3d363718a19b6ab5e1e59892e              543 main/binary-arm64/Packages.gz
+SHA1:
+ 11b01a79a8d0ebded8c74608ff426db05f133bf9              788 main/binary-amd64/Packages
+ a1148768649a1ce04f9c552ddffc09b1d464f74d              542 main/binary-amd64/Packages.gz
+ ac6771925be945650a110a508f8a42c5f8cf48a2              788 main/binary-arm64/Packages
+ 03e3f54a525171c10c88b97f47dce9ff63f3b107              543 main/binary-arm64/Packages.gz
+SHA256:
+ 7585667aa8e12a62b81f23f19b37863b0c33a1a892952b142ff8002fc19d4e90              788 main/binary-amd64/Packages
+ 1bb2f84d5bbe03b2a49459a08e7242343675ff53fe094035269195d802d56ce8              542 main/binary-amd64/Packages.gz
+ 0a11be4b90bee15cfbfe59d782713f409fa4fb91a52e026e7b5b8378ffb0fd83              788 main/binary-arm64/Packages
+ 2a74a0f168dbd821eda132ed31f6e151a2b62d37e8a7d87b3a119645c4a1a925              543 main/binary-arm64/Packages.gz
+SHA512:
+ e8d1cf6b37bd259400a37769a9bf796bb52e31c3a91050c3a474265c1f26b230c125911cb7fb3ee56dc1ca4a6fd6dedd68eae08878b3ae3252924ad8af330520              788 main/binary-amd64/Packages
+ a51ae2341ed6333330a1810e6fb325a07964f8296c0413c91b3a9bfcd99a45e5d09617d10995b7014ecce9f08dffaada4ee1a84b6c786b6183cde046457c1216              542 main/binary-amd64/Packages.gz
+ 0f5d912746f8bd33680bcecca10ce3fa23fc0df838cbf7b8e7299d52dd4497cc35e7f006909de9443a11c75294ca5318eb8bd033306130f11adc7293366142cf              788 main/binary-arm64/Packages
+ 0e607889af57c89bbeda51c489c24e7fb733424b5994a962affc49ac467dcd345f791a9d154d44f19e888185e2af5abfcbf0c0945f40a53e76d12b3db7be3628              543 main/binary-arm64/Packages.gz

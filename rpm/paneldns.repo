@@ -1,0 +1,8 @@
+[paneldns]
+name=PanelDNS agent
+baseurl=https://packages.paneldns.com/rpm/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://packages.paneldns.com/gpg.key
+metadata_expire=1d
