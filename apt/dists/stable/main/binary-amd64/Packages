@@ -1,24 +1,5 @@
 Package: paneldns-agent
 Architecture: amd64
-Version: 0.1.0~p5.1
-Priority: optional
-Section: net
-Maintainer: HostingSimple
-Installed-Size: 7932
-Recommends: acl
-Filename: pool/main/p/paneldns-agent/paneldns-agent_0.1.0~p5.1_amd64.deb
-Size: 3428650
-MD5sum: 0927cd8808405afdafcf64b7fed5a290
-SHA1: 9b273aa4a5d9da9cd116dbfa4921debf53f5cd6a
-SHA256: 0f753dd0b71ca31723ca755fe5742cc09b8af2411a3357b9574309258f72f365
-SHA512: d017a068a3e0b0df15ea7254ff12108444c3cbb578aab556ae8e171ae5c0f0a77cadae8ee92ac3fc4a2415d5c620d5f9d045cea10d8517eeaa8fea9a8871d1c2
-Homepage: https://github.com/hostingsimple/paneldns-agent
-Description: PanelDNS agent for Panel Sync.
- Reads the zones of this server's own DNS (BIND or PowerDNS) and pushes
- them, Ed25519-signed, to PanelDNS over HTTPS. It only connects out.
-
-Package: paneldns-agent
-Architecture: amd64
 Version: 0.1.1
 Priority: optional
 Section: net
@@ -50,6 +31,25 @@ MD5sum: 8290ac4a895654b6f40e7d2554e6d08a
 SHA1: 8f12ded6643c7918484f116ae43ca4f88307494e
 SHA256: 273387ad6307bf772d06474100de09638001f0a226b0c393a3e7d12349d2feeb
 SHA512: 781b14e4c3fdd14a4ebf3a19e05fec959751e2b4f3126dc2833b1215a6ace842dcf623bbc002342071e409af1bec16a1ffc6160c5ce31e23b5dd1a25c0d0624a
+Homepage: https://github.com/hostingsimple/paneldns-agent
+Description: PanelDNS agent for Panel Sync.
+ Reads the zones of this server's own DNS (BIND or PowerDNS) and pushes
+ them, Ed25519-signed, to PanelDNS over HTTPS. It only connects out.
+
+Package: paneldns-agent
+Architecture: amd64
+Version: 0.1.3
+Priority: optional
+Section: net
+Maintainer: HostingSimple
+Installed-Size: 8012
+Recommends: acl
+Filename: pool/main/p/paneldns-agent/paneldns-agent_0.1.3_amd64.deb
+Size: 3465038
+MD5sum: 548469aebb2e44f21ddca7cd6142b467
+SHA1: 7c1c838d7dea7ae7f7f6773d3c7dae5200d92a95
+SHA256: 4c505a41aa128ec97dbb91d565695ed4fe2ba149027d2eed62865b2d55bb6e4f
+SHA512: 28cea58218f6787185f8e5d494efc53268cdb7da9d6cd927f500cf393cd5ab36030bdb337e89c3f35754b9eb343ce030870c1bd300dafab719d6be7151bf7bc4
 Homepage: https://github.com/hostingsimple/paneldns-agent
 Description: PanelDNS agent for Panel Sync.
  Reads the zones of this server's own DNS (BIND or PowerDNS) and pushes
