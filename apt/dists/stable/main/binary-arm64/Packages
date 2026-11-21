@@ -36,3 +36,22 @@ Description: PanelDNS agent for Panel Sync.
  Reads the zones of this server's own DNS (BIND or PowerDNS) and pushes
  them, Ed25519-signed, to PanelDNS over HTTPS. It only connects out.
 
+Package: paneldns-agent
+Architecture: arm64
+Version: 0.1.2
+Priority: optional
+Section: net
+Maintainer: HostingSimple
+Installed-Size: 7388
+Recommends: acl
+Filename: pool/main/p/paneldns-agent/paneldns-agent_0.1.2_arm64.deb
+Size: 3101188
+MD5sum: afeaf1244ea27ed2fb42478186a4f0a9
+SHA1: 5031fb52236f7c9912aa27a69e91fdb7290f0981
+SHA256: fa9e364087667d1e5e11145a8121a533c9a9e9f4ac06ea157ea03c392752fad1
+SHA512: d6bd6970d597317b214943d9f15f78bd4db3f8197a5dfac2c631a1557a3c24ab635fab1a3b22b232f81012c6f0ff25fed441b8ec92a328f6c32110f724ca715a
+Homepage: https://github.com/hostingsimple/paneldns-agent
+Description: PanelDNS agent for Panel Sync.
+ Reads the zones of this server's own DNS (BIND or PowerDNS) and pushes
+ them, Ed25519-signed, to PanelDNS over HTTPS. It only connects out.
+
