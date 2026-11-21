@@ -4,8 +4,8 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sat, 21 Nov 2026 06:01:12 +0000
-Valid-Until: Sat, 05 Dec 2026 06:01:12 UTC
+Date: Sat, 21 Nov 2026 06:29:02 +0000
+Valid-Until: Sat, 05 Dec 2026 06:29:02 UTC
 Description: PanelDNS agent packages
 Label: PanelDNS
 Origin: PanelDNS
@@ -32,8 +32,8 @@ SHA512:
  0bb65ed57be6c1118f87072cfc215347279ec43908fdf4c53784bc1f14e57b051981202601882dc492272b6c997865f4868205a305922ddec69361dc07679577              736 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTwdt9pIv0brE9RWMV+BkMDrVK0pgUCawEzqAAKCRB+BkMDrVK0
-pkmwAP9z6xmaHc+QB4pqEspFv37rfDZTOufUMaTit9wJ+AP8qQD/asxx4CbtufIK
-sdHtpy/pl2tAywpfE91cyPDftsEHFg8=
-=LL0y
+iHUEARYKAB0WIQTwdt9pIv0brE9RWMV+BkMDrVK0pgUCawE6LgAKCRB+BkMDrVK0
+piOkAQDMke0rRTJwufDLmuqEUtpTBl1xs5mKddkQ1xmuSkjEUgEAyKOmQkt4m2nX
+ENACg/Chz2lE5KwrnUTc2GVYsqXdvQE=
+=BDUd
 -----END PGP SIGNATURE-----
