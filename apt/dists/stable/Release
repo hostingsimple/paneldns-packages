@@ -1,29 +1,29 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Fri, 20 Nov 2026 12:59:37 +0000
-Valid-Until: Fri, 04 Dec 2026 12:59:37 UTC
+Date: Sat, 21 Nov 2026 06:01:12 +0000
+Valid-Until: Sat, 05 Dec 2026 06:01:12 UTC
 Description: PanelDNS agent packages
 Label: PanelDNS
 Origin: PanelDNS
 Suite: stable
 MD5Sum:
- c2087b7b5c8191f4876092e2e364478d              788 main/binary-amd64/Packages
- ed22501cb66558adf97e003f61e8cb07              542 main/binary-amd64/Packages.gz
- e28ab2013bf5a49424f5cdf19997001e              788 main/binary-arm64/Packages
- d24693f3d363718a19b6ab5e1e59892e              543 main/binary-arm64/Packages.gz
+ 65aa1abbf42ec17eab19f61cc70a60aa             1566 main/binary-amd64/Packages
+ e6fc81ebfa88ae8c14e9b3a6c5aba503              737 main/binary-amd64/Packages.gz
+ 840e706c80052f77af342011ea651874             1566 main/binary-arm64/Packages
+ ac8fa80845db4e7076188f39821277a5              736 main/binary-arm64/Packages.gz
 SHA1:
- 11b01a79a8d0ebded8c74608ff426db05f133bf9              788 main/binary-amd64/Packages
- a1148768649a1ce04f9c552ddffc09b1d464f74d              542 main/binary-amd64/Packages.gz
- ac6771925be945650a110a508f8a42c5f8cf48a2              788 main/binary-arm64/Packages
- 03e3f54a525171c10c88b97f47dce9ff63f3b107              543 main/binary-arm64/Packages.gz
+ 11640bba5ed5d37a5d2f721c3b5b775f3be69550             1566 main/binary-amd64/Packages
+ f8dd3d4d88146bea7952cc96069cad7655dcbba4              737 main/binary-amd64/Packages.gz
+ 226ac0a1a9e109b13c0040a27e473d9de48a0e83             1566 main/binary-arm64/Packages
+ dfef48dec9fab5f6bd662d0b7c6696a2c23d0aa3              736 main/binary-arm64/Packages.gz
 SHA256:
- 7585667aa8e12a62b81f23f19b37863b0c33a1a892952b142ff8002fc19d4e90              788 main/binary-amd64/Packages
- 1bb2f84d5bbe03b2a49459a08e7242343675ff53fe094035269195d802d56ce8              542 main/binary-amd64/Packages.gz
- 0a11be4b90bee15cfbfe59d782713f409fa4fb91a52e026e7b5b8378ffb0fd83              788 main/binary-arm64/Packages
- 2a74a0f168dbd821eda132ed31f6e151a2b62d37e8a7d87b3a119645c4a1a925              543 main/binary-arm64/Packages.gz
+ 5b564ff71ec63b9bdcdea56d7e0508cc5ab95e733c94e3994acbb17dceaa0987             1566 main/binary-amd64/Packages
+ c94eb64a19bfbd6acdb675f42148f12df0bc8f1fa1a981a73cdbfcf651276801              737 main/binary-amd64/Packages.gz
+ 225d42ba2c741a498eb7218a9eba968a51603ef659da386336d0486c4667b5be             1566 main/binary-arm64/Packages
+ 463c181932649667534dd3f445adbb9e757f849ba8e1de673e4d0becfdfcabb1              736 main/binary-arm64/Packages.gz
 SHA512:
- e8d1cf6b37bd259400a37769a9bf796bb52e31c3a91050c3a474265c1f26b230c125911cb7fb3ee56dc1ca4a6fd6dedd68eae08878b3ae3252924ad8af330520              788 main/binary-amd64/Packages
- a51ae2341ed6333330a1810e6fb325a07964f8296c0413c91b3a9bfcd99a45e5d09617d10995b7014ecce9f08dffaada4ee1a84b6c786b6183cde046457c1216              542 main/binary-amd64/Packages.gz
- 0f5d912746f8bd33680bcecca10ce3fa23fc0df838cbf7b8e7299d52dd4497cc35e7f006909de9443a11c75294ca5318eb8bd033306130f11adc7293366142cf              788 main/binary-arm64/Packages
- 0e607889af57c89bbeda51c489c24e7fb733424b5994a962affc49ac467dcd345f791a9d154d44f19e888185e2af5abfcbf0c0945f40a53e76d12b3db7be3628              543 main/binary-arm64/Packages.gz
+ eed4f93712071b22986e336e8998f492c46339076425d1b42cf26c57871214c5494c72a82ba968388ce80519a4bd419277c11b94022ee55c50800536860023ca             1566 main/binary-amd64/Packages
+ b43d9d0ccb51ac865ffc139cfd6a356f85957a5b96a3d7340927d298888d1fb1bc7eca31686ac8d782b4597d9931933eb8ad47eaf17a59f0686afeb141427074              737 main/binary-amd64/Packages.gz
+ e864a92187ed425255c4ab14a4c7de2e1213f3ed1fd4d89f3dc1e9b6ae2603b2471976edf273fb17999ccca8e8f102b73cf41f4833468e8bc4e04824975c0a2d             1566 main/binary-arm64/Packages
+ 0bb65ed57be6c1118f87072cfc215347279ec43908fdf4c53784bc1f14e57b051981202601882dc492272b6c997865f4868205a305922ddec69361dc07679577              736 main/binary-arm64/Packages.gz
